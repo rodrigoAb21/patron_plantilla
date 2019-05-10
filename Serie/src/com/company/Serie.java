@@ -22,6 +22,6 @@ public abstract class Serie {
         System.out.println();
     }
 
-    public abstract int operacion(int nro, int i);
+    protected abstract int operacion(int nro, int i);
 
 }
