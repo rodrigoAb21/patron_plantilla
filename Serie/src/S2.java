@@ -1,5 +1,3 @@
-package com.company;
-
 public class S2 extends Serie {
     @Override
     protected int operacion(int nro, int i) {

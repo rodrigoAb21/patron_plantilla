@@ -1,5 +1,3 @@
-package com.company;
-
 public class S1 extends Serie {
 
     @Override
